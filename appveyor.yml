@@ -1,3 +1,0 @@
-install:
-- pip3 install flask
-study/some_app.py
